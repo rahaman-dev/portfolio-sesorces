@@ -204,3 +204,8 @@ input:not(:last-child):focus,
 textarea:focus {
   border: 1px solid #fd6e0a;
 }
+.footer-copyright-section {
+  background-color: #fff8f3;
+  text-align: center;
+  padding: 20px;
+}
